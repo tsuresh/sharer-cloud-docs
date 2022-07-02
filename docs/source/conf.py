@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2022, Inforwaves Private Limited'
+author = 'Suresh Peiris'
 
 release = '0.1'
 version = '0.1.0'
