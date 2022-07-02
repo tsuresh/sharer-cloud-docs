@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Sharer Cloud documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Sharer Cloud** is a Grid Computing framework that offers community driven distributed workload processing capabilities. The system consits of 3 main components: Contributor Client, Requestor Client and Backend Application that facilitates all the requst handeling behalf of the system.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
